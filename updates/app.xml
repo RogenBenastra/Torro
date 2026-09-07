@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Torro>
-  <version>1.3.609</version>
+  <version>1.3.0709</version>
   <url>https://raw.github.com/RogenBenastra/Torro/main/bin/arch.zip</url>
   <sha256>cda6a695fce1a05312ce8eb84ba11f0b807e0f30ae56def83412d4b29b0dc7bf</sha256>
 </Torro>
